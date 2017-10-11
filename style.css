@@ -48,3 +48,8 @@ table {
 }
 
 /*MY CODE */
+.wrapper{
+	border:1px solid #EE4122;
+	max-width: 980px;
+	margin: 0 auto;
+}
